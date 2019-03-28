@@ -29,12 +29,15 @@ Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barc
 
 ## Grading
 
-+ Assignment #1: 25%
-+ Assignment #2: 25%
-+ Assignment #3: 25%
++ Assignment #1 Trivago Recommender System: 25% 
++ Assignment # Presentation 2: 25%
++ Assignment #3 Jester Recommender System: 25%
 + Final Examen: 25%
 
 Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
+
+Jester Kaggle Challenge: 
+https://www.kaggle.com/t/1ad2387da87c40a487d365f8cf205606
 
 ## Course Agenda
 <ol type="1">
